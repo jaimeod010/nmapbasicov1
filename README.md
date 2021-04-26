@@ -11,7 +11,6 @@ Menu de nmap basico para escanear la redes dispositivos y puertos version 1
 En este script vamos a utilizar varias funciones basicas de nmap 
 
 
-## Features
 
 ### menu
 1. **RED** : Reconocimiento de red con SYN
