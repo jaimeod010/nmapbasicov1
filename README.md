@@ -27,7 +27,7 @@ Con tan solo tener el nmap instalado ya funcionaria a la perfeccion
 
 ```bash
 apt install nmap
-git clone mifichero github
+git clone https://github.com/jaimeod010/nmapbasicov1.git
 
 ```
 para no tener que usar el sh tendreis que darle permiso de ejecucion y meter el script en el path (/usr/bin)
