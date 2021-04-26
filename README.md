@@ -4,7 +4,7 @@ Menu de nmap basico para escanear la redes dispositivos y puertos version 1
 
 # nmapbasico
   
-![nmapbasico](https://i.imgur.com/3cMJIPr.gif)
+![nmapbasico](https://imgur.com/352sLZD.gif)
   
 ## Descripcion
 
